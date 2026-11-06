@@ -1,2 +1,3 @@
 *.duckdb
 *.exe
+*.duckdb.wal
